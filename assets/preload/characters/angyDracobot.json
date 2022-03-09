@@ -1,0 +1,138 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				121,
+				227
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"camera_pos": [
+				-120,
+				-180
+			],
+			"name": "Dracobot Shutter",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				121,
+				227
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"camera_pos": [
+				-120,
+				-180
+			],
+			"name": "Dracobot Shutter",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				121,
+				227
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"camera_pos": [
+				-120,
+				-180
+			],
+			"name": "Dracobot Shutter",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				121,
+				227
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"camera_pos": [
+				-120,
+				-180
+			],
+			"name": "Dracobot Shutter",
+			"indices": []
+		},
+		{
+			"offsets": [
+				25,
+				215
+			],
+			"indices": [],
+			"fps": 25,
+			"anim": "idle",
+			"loop": true,
+			"name": "Dracobot Idle"
+		},
+		{
+			"offsets": [
+				220,
+				215
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Dracobot Left"
+		},
+		{
+			"offsets": [
+				93,
+				-3
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Dracobot Down"
+		},
+		{
+			"offsets": [
+				57,
+				205
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Dracobot Up"
+		},
+		{
+			"offsets": [
+				45,
+				273
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Dracobot Right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/dracobot-angy",
+	"position": [
+		0,
+		100
+	],
+	"healthicon": "icon-angyDracobot",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		65,
+		74
+	],
+	"camera_position": [
+		-210,
+		-220
+	],
+	"sing_duration": 4,
+	"scale": 0.8
+}

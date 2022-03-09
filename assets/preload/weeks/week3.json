@@ -1,0 +1,52 @@
+{
+	"storyName": "nacidio's reveal",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "week2",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Eyeball",
+			"nacidio",
+			[
+				255,
+				0,
+				55
+			]
+		],
+		[
+			"Tentacles",
+			"nacidio",
+			[
+				255,
+				0,
+				55
+			]
+		],
+		[
+			"Bloodbath",
+			"nacidio",
+			[
+				255,
+				0,
+				55
+			]
+		],
+		[
+			"Cybered Feelings",
+			"nacidio",
+			[
+				255,
+				0,
+				55
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "week3"
+}

@@ -1,0 +1,26 @@
+{
+	"storyName": "Rematch against Spirit!",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "rooftops",
+	"weekBefore": "week3",
+	"startUnlocked": false,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"dracobot",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Dragonsnaps",
+			"angyDracobot",
+			[
+				255,
+				105,
+				74
+			]
+		]
+	],
+	"weekName": "week4"
+}

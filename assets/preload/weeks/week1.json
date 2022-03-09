@@ -1,0 +1,52 @@
+{
+	"storyName": "Draconic encounter!",
+	"hideFreeplay": false,
+	"weekBackground": "rooftops",
+	"weekBefore": "",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"dracobot",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Power On",
+			"dracobot",
+			[
+				233,
+				245,
+				73
+			]
+		],
+		[
+			"Scan",
+			"dracobot",
+			[
+				233,
+				245,
+				73
+			]
+		],
+		[
+			"Error 404",
+			"angyDracobot",
+			[
+				255,
+				105,
+				74
+			]
+		],
+		[
+			"Solder",
+			"dracobot",
+			[
+				233,
+				245,
+				73
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "week1"
+}

@@ -1,0 +1,43 @@
+{
+	"storyName": "field travel",
+	"hideFreeplay": false,
+	"weekBackground": "fields",
+	"weekBefore": "week1",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"olevadon",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Blue Ball",
+			"olevadon",
+			[
+				0,
+				192,
+				255
+			]
+		],
+		[
+			"Spherical",
+			"olevadon",
+			[
+				0,
+				192,
+				255
+			]
+		],
+		[
+			"Shepherd",
+			"enkeiko",
+			[
+				62,
+				116,
+				221
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "week2"
+}
